@@ -1,0 +1,473 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Add to Cart for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-03 12:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Domain: ajax-add-to-cart-for-woocommerce"
+
+#: includes/admin/SettingsPage.php:210
+msgid "Advanced"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:50
+msgid "Ajax add to Cart"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ajax Add to Cart for WooCommerce"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:260
+msgid "Always hide"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:259
+msgid "Always show"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:224
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:246
+msgid "Auto Adjust"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:117
+msgid "Basket background color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:120
+msgid "Basket background color on hover"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:118
+msgid "Basket border color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:121
+msgid "Basket border color on hover"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:105
+msgid "Basket Offset ↨"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:106
+msgid "Basket Offset ⟷"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:104
+msgid "Basket position"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:122
+msgid "Basket shadow"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:123
+msgid "Basket shadow color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:51
+msgid "Basket status"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:138
+msgid "Body background color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:139
+msgid "Body text color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:268
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:277
+msgid "Bottom left"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:276
+msgid "Bottom right"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:180
+msgid "Buttons position"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:32
+msgid "by StylemixThemes"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:73
+msgid "Cart Button"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:71
+msgid "Cart Heading"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:53
+msgid "Cart Icon Counter"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:125
+msgid "Cart Icon Counter background color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:126
+msgid "Cart Icon Counter border color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:116
+msgid "Cart Icon Counter position"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:124
+msgid "Cart Icon Counter text color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:284 includes/admin/SettingsPage.php:292
+msgid "Center"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:191
+msgid "Checkout"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:74
+msgid "Checkout Button"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:60
+msgid "Close icon"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:130
+msgid "Close icon size"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:72
+msgid "Continue Button"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:316
+msgid "Custom"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:212
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:88
+msgid "Custom font"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:225
+msgid "Descending"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:54
+msgid "Disable Cart on Selected Pages"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:239
+msgid "Do not include Variation"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:109
+msgid "Floating icon"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:119
+msgid "Floating icon color on hover"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:176
+msgid "Footer background color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:202
+msgid "Footer buttons background color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:205
+msgid "Footer buttons background color on hover"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:203
+msgid "Footer buttons border"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:206
+msgid "Footer buttons border on hover"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:199
+msgid "Footer buttons container row type"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:200
+msgid "Footer buttons design"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:201
+msgid "Footer buttons text color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:204
+msgid "Footer buttons text color on hover"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:174
+msgid "Footer font size"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:173
+msgid "Footer padding"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:175
+msgid "Footer text color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:245
+msgid "Full Height"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:46
+msgid "General"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:132
+msgid "Header background color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:59
+msgid "Header basket icon"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:133
+msgid "Header text color"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:129
+msgid "Heading align"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:131
+msgid "Heading font size"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:261
+msgid "Hide when cart is empty"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ajax-add-to-cart-for-woocommerce/"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:238
+msgid "Include Variation"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:285
+msgid "Left"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:253
+msgid "Left side"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:66
+msgid "Link to a Product page"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:306
+msgid "One in a row"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:299
+msgid "One line"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:58
+msgid "Open side cart from"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:169
+msgid "Product Details position"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:61
+msgid "Product image"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:145
+msgid "Product image container padding"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:142
+msgid "Product image width"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:65
+msgid "Product meta ( Varitions )"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:62
+msgid "Product name"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:69
+msgid "Product Name ( Variable Product )"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:158
+msgid "Product padding"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:63
+msgid "Product price"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:64
+msgid "Product total"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:57
+msgid "Products on a Cart Page order"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:170
+msgid "Quantity & Price position"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:67
+msgid "Remove Product from cart"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:283
+msgid "Right"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:252
+msgid "Right side"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sales & Conversion Booster for WooCommerce."
+msgstr ""
+
+#: includes/admin/SettingsPage.php:300
+msgid "Separately"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:76
+msgid "Shop Button ( Displays when cart is empty )"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:52
+msgid "Show count"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:85
+msgid "Side Cart height"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:84
+msgid "Side Cart width"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:49
+msgid "Slide-in Off-Canvas Cart Page"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:31
+msgid "StickyWooCart"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:293
+msgid "Stretched"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:80
+msgid "Style"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:68
+msgid "Subtotal"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:137
+msgid "Subtotal text font size"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:136
+msgid "Text font size"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:309
+msgid "Three in one row"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:267 includes/admin/SettingsPage.php:291
+msgid "Top"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:275
+msgid "Top left"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:274
+msgid "Top right"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:232
+msgid "Total items in a Cart"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:231
+msgid "Total Unique products in a Cart"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:307
+msgid "Two in first row"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:308
+msgid "Two in last row"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:315
+msgid "Use theme button design & colors"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:187
+msgid "View Cart"
+msgstr ""
+
+#: includes/admin/SettingsPage.php:75
+msgid "Your Cart is Empty"
+msgstr ""
